@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# MkDocs build output
+site/
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Made with Bob
