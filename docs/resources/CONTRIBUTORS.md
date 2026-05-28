@@ -120,7 +120,7 @@ All contributors are expected to follow the [IBM Code of Conduct](https://www.ib
 
 This workshop is licensed under the Apache License 2.0. By contributing, you agree that your contributions will be licensed under the same license.
 
-See [LICENSE](../../LICENSE) for full details.
+See [LICENSE](https://github.com/ibm/intro-bob-workshop/blob/master/LICENSE) for full details.
 
 ## Acknowledgments
 
