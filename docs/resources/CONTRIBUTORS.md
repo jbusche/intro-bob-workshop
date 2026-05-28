@@ -14,8 +14,15 @@ This workshop was created by the IBM Developer Advocacy team with contributions 
 * Focus: Agentic AI and Bob development
 
 ## Workshop Authors
-* Github: [jbusche](https://github.com/jbusche)
-* Github: [yh-wang](https://github.com/yhwang)
+
+### **James Busche**
+* GitHub: [jbusche](https://github.com/jbusche)
+
+### **Yi-Hong Wang**
+* GitHub: [yh-wang](https://github.com/yhwang)
+
+### **Ted Chang**
+* GitHub: [tedhtchang](https://github.com/tedhtchang)
 
 ### **Workshop Design Team**
 * IBM Developer Advocacy Team
