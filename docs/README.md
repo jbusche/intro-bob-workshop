@@ -38,10 +38,10 @@ Designed for high school students interested in technology and AI. Learn how AI 
 
 [Start High School Workshop →](lab-2/README.md)
 
-#### 💼 IBM Employee Workshop (75 minutes)
+#### 💼 IBM Employee Workshop (60 minutes)
 **Accelerate Your Work with Agentic AI**
 
-For IBM developers, architects, consultants, and technical leaders. Experience how Bob can transform your daily work through code development, documentation, analysis, and automation.
+For IBM developers, architects, consultants, and technical leaders. Experience Bob through guided demonstrations, then explore Bob's capabilities with your own work challenges in a personalized hands-on session.
 
 [Start IBM Employee Workshop →](lab-3/README.md)
 

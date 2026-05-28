@@ -18,10 +18,10 @@ Team-based demonstration format where students create prompts and watch Bob buil
 
 Hands-on introduction to agentic AI where students create interactive projects, analyze code, and explore real-world applications.
 
-### 💼 IBM Employee Workshop (75 minutes)
+### 💼 IBM Employee Workshop (60 minutes)
 **Accelerate Your Work with Agentic AI**
 
-Professional development workshop covering code development, documentation, analysis, automation, and client deliverables.
+Professional development workshop with guided demonstrations and personalized exploration. Learn Bob's capabilities through real examples, then apply them to your own work challenges.
 
 ## 📚 View the Workshops
 
