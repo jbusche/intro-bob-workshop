@@ -46,51 +46,41 @@ If you have questions about access, contact your workshop instructor.
 
 ### For IBM Employees
 
-#### Basic Setup (Required)
+**Good news!** As an IBM employee, you already have access to IBM Bob. No additional setup or credentials needed.
 
-Your workshop facilitator will provide Bob access credentials. You can use Bob through:
+#### What You Need
 
-1. **Web-based interface** - Access Bob directly in your browser (recommended for most users)
-2. **VS Code extension** - For developers who want IDE integration (optional)
+**Required:**
+- Your IBM laptop
+- Bob is already available to you as an IBM employee
+- Internet connection
 
-**To verify your access:**
-1. Open the Bob interface (web or VS Code)
-2. Log in with your provided credentials
-3. Try a simple prompt like "Introduce yourself"
+**Optional (but helpful):**
+- Think about a current work challenge or project you'd like to explore with Bob
+- Review the workshop agenda to see what we'll cover
+- Bring questions about how Bob could help your specific role
 
-If you encounter issues, contact the workshop facilitator.
+#### Verify Your Bob Access (Optional)
 
-#### Optional: VS Code Setup (For Advanced Users)
+If you want to test Bob before the workshop:
 
-If you prefer to use Bob within VS Code:
+1. Open Bob (you already have access as an IBMer)
+2. Try a simple prompt like: "Bob, introduce yourself and explain what makes you different from ChatGPT"
+3. If you have any issues, contact the workshop facilitator
 
-1. **Install VS Code** from [code.visualstudio.com](https://code.visualstudio.com/)
-2. **Install Bob Extension:**
-   - Open VS Code
-   - Click Extensions icon (or press `Cmd+Shift+X` on Mac, `Ctrl+Shift+X` on Windows)
-   - Search for "IBM Bob"
-   - Click **Install**
-3. **Configure Bob:**
-   - Open Settings (`Cmd+,` on Mac, `Ctrl+,` on Windows)
-   - Search for "Bob"
-   - Enter your credentials and preferences
-4. **Test:** Open Command Palette (`Cmd+Shift+P`/`Ctrl+Shift+P`) and try a Bob command
+**Note:** The workshop will guide you through everything, so don't worry if you haven't used Bob before!
 
-#### Optional: Development Tools
+#### Optional: Prepare Your Exploration Topic
 
-For hands-on coding examples:
+The workshop includes 30 minutes where you'll use Bob to work on something relevant to YOUR role. Consider bringing:
 
-**Node.js Installation:**
+- A current coding challenge
+- Documentation that needs writing
+- A technical proposal or architecture you're working on
+- Code that needs review or refactoring
+- Any work problem where AI assistance could help
 
-1. Download from [nodejs.org](https://nodejs.org/)
-2. Install the LTS version
-3. Verify: `node --version` and `npm --version`
-
-**Git Installation:**
-
-1. Download from [git-scm.com](https://git-scm.com/)
-2. Install for your OS
-3. Verify: `git --version`
+Don't have something specific? No problem! We'll provide plenty of example scenarios during the workshop.
 
 ## Workshop Materials
 
@@ -115,8 +105,9 @@ For hands-on coding examples:
 
 **IBM Workshop:**
 
-- Laptop with Bob configured
-- Current project or code you'd like to improve (optional)
+- Your IBM laptop (Bob already available)
+- Optional: A current work challenge or project to explore with Bob
+- Optional: Code or documentation you'd like to improve
 
 ### What We'll Provide
 
@@ -142,25 +133,17 @@ For hands-on coding examples:
 
 ### IBM Employees
 
-- [ ] Laptop ready with internet connection
-- [ ] Bob access credentials received
-- [ ] Bob access verified (web or VS Code)
-- [ ] Optional: VS Code with Bob extension (for advanced users)
-- [ ] Optional: Node.js and Git installed (for coding examples)
+- [ ] IBM laptop ready with internet connection
+- [ ] Bob is available (already included with IBM access)
+- [ ] Optional: Thought about a work challenge to explore with Bob
+- [ ] Optional: Brought code or documentation to work on
 
 ## Troubleshooting
 
 ### Can't Access Bob?
 
 - **High School**: Contact your instructor before workshop day
-- **IBM**: Contact IT support or workshop facilitator
-
-### VS Code Issues?
-
-- Ensure you have the latest version
-- Try restarting VS Code
-- Check extension is enabled
-- Review VS Code documentation
+- **IBM**: Bob is included with your IBM access. If you have issues, contact the workshop facilitator
 
 ### Connection Problems?
 
