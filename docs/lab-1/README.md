@@ -5,10 +5,15 @@
 Get ready to see how AI can actually build things! In this interactive demonstration workshop, you'll work in teams to come up with creative ideas and write prompts that tell Bob (an AI assistant) what to create. Watch as your ideas come to life in real-time! No coding experience needed - you bring the creativity, Bob does the building!
 
 **Duration:** 45 minutes
+
 **Age Group:** Middle School (grades 6-8)
+
 **Format:** Team-based demonstration (instructor types prompts into Bob)
+
 **Prerequisites:** None! Just bring your creativity and imagination
+
 **Materials Needed:**
+
 - Projector/screen for demonstration
 - Students in teams of 3-4
 - Whiteboard or paper for teams to draft prompts
@@ -20,11 +25,13 @@ Get ready to see how AI can actually build things! In this interactive demonstra
 Bob isn't just a chatbot that answers questions - Bob can actually **DO** things!
 
 **Regular Chatbots:**
+
 - Answer your questions
 - Have conversations
 - Give you information
 
 **Bob (Agentic AI):**
+
 - Creates files and projects
 - Builds websites and games
 - Makes things you can actually use

@@ -5,7 +5,9 @@
 This workshop introduces high school students to agentic AI through hands-on exercises with Bob, an AI assistant that can autonomously use tools to accomplish tasks. Students will learn how AI agents differ from simple chatbots and experience the power of AI that can take action.
 
 **Duration:** 90 minutes
-**Prerequisites:** Basic computer literacy, curiosity about AI  
+
+**Prerequisites:** Basic computer literacy, curiosity about AI
+
 **Materials Needed:** Laptops with Bob access, internet connection
 
 ---
@@ -13,11 +15,13 @@ This workshop introduces high school students to agentic AI through hands-on exe
 ## What is Agentic AI?
 
 **Traditional AI Chatbots:**
+
 - Answer questions
 - Provide information
 - Have conversations
 
 **Agentic AI (like Bob):**
+
 - Takes autonomous actions
 - Uses tools to accomplish tasks
 - Breaks down complex problems into steps
@@ -36,7 +40,7 @@ This workshop introduces high school students to agentic AI through hands-on exe
 
 **Example prompt:**
 ```
-Hi Bob! Can you introduce yourself and explain what makes you an "agentic AI"? 
+Hi Bob! Can you introduce yourself and explain what makes you an "agentic AI"?
 What can you do that a regular chatbot can't?
 ```
 
@@ -54,7 +58,7 @@ What can you do that a regular chatbot can't?
 
 **Example prompt:**
 ```
-Bob, can you explore my current project directory and tell me what files and 
+Bob, can you explore my current project directory and tell me what files and
 folders are here? Create a visual tree structure showing the organization.
 ```
 
@@ -240,10 +244,10 @@ Bob, can you add [specific feature] to my project?
 
 ### Getting Better Results
 
-**Instead of:** "Make a website"  
+**Instead of:** "Make a website"
 **Try:** "Create a personal portfolio website with a home page, about section, and contact form. Use a blue and white color scheme with modern, clean design."
 
-**Instead of:** "This doesn't work"  
+**Instead of:** "This doesn't work"
 **Try:** "The button on line 15 isn't responding when I click it. Can you check the JavaScript event listener?"
 
 ---
@@ -329,5 +333,5 @@ Remember: AI is a tool to augment human creativity and capability, not replace i
 
 ---
 
-*Workshop created for IBM Bob - An Agentic AI Assistant*  
+*Workshop created for IBM Bob - An Agentic AI Assistant*
 *Version 1.0 - Designed for high school students*

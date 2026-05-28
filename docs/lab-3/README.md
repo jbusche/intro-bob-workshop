@@ -5,8 +5,11 @@
 This hands-on workshop demonstrates how IBM Bob, an agentic AI assistant, can transform your daily work at IBM. Through practical exercises, you'll experience Bob's capabilities in code development, documentation, analysis, automation, and more. Learn how to leverage Bob to increase productivity, improve code quality, and accelerate project delivery.
 
 **Duration:** 75 minutes
+
 **Target Audience:** IBM employees (developers, architects, consultants, technical leaders)
+
 **Prerequisites:** Basic familiarity with software development concepts
+
 **Materials Needed:** Laptop with Bob access, VS Code with Bob extension
 
 ---
